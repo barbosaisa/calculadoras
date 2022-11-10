@@ -1,0 +1,12 @@
+.titulo{font-size: 50px; /*tamanho da fonte do título*/
+		color: #BEBEBE; /*essa é a cor do texto*/
+        text-align: center;/*o alinhamento do texto que carregar esta classe*/}
+
+#botao-bonito{color:#bebebe;
+			  padding-top: 15px;
+			  padding-bottom: 15px;
+			  padding-right: 35px;
+			  padding-left: 35px;
+			  background-color:#008B45;
+			  border-radius: 37px}
+			  
